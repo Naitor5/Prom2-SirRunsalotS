@@ -1,4 +1,4 @@
-MVC explicación: https://codigofacilito.com/articulos/mvc-model-view-controller-explicado
+MVC explicaciÃ³n: https://codigofacilito.com/articulos/mvc-model-view-controller-explicado
 
 Que va a hacer cada uno:
 
@@ -15,3 +15,5 @@ A:Tengo una idea de como hacer el canvas pero si sebastian va a hacer vista no d
 
 J: Si pero tambien es programacion supuestamente, osea eso es lo que nose como vamos a hacer
 J: en plan que hacer cada uno y como hacerlo
+
+S: ya, dime bien q tengo q hacer pq en el link q mandaste solamente explica la teoria y aplicaciones de mvc pero no te dice como hacerlo y no se q tengo q hacer
