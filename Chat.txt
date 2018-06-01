@@ -84,3 +84,6 @@ esas son mis variables dentro de mi script
 A: Ok, va a tener todos los objetos de por si o los va a obtener; si los va a obtener como?
 
 S: y si hacemos solo 2 preguntas? tenemos poco tiempo
+
+A:Quieres que introduzca con el teclado el valor de objetos que tiene para poder seguir avanzando? Sabes como hacer eso?
+
