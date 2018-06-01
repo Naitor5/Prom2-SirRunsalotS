@@ -61,3 +61,5 @@ S: ya, entonces para eso creo un canvas para especificar el quest y un boton par
 J: el problema eres tu, porque yo puedo hacer los scripts de logica, aleksei hacer que funcionen pero nose como explicarte que funcionen en el mismo canvas
 
 S: y yo se usar photoshop
+
+A: OK lo que necesitamos que sepa es que todo se va a acceder desde el controller no? Lo que tiene que hacer es acceder a mi script desde los botones que vayamos a poner el tiene que agregar mi script desde un objeto vacio con el game controller y seleccionar que metodos mios va a usar
