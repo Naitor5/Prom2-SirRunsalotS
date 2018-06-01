@@ -80,3 +80,5 @@ J: pregunta 2: Ahora necesito 20 de hierro y 10 de madera para la armadura
 J: pregunta 3: necesito que me treiga 2 plantas y 1 tarro de agua para hacerle una pocion
 
 esas son mis variables dentro de mi script
+
+A: Ok, va a tener todos los objetos de por si o los va a obtener; si los va a obtener como?
