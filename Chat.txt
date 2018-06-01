@@ -63,3 +63,8 @@ J: el problema eres tu, porque yo puedo hacer los scripts de logica, aleksei hac
 S: y yo se usar photoshop
 
 A: OK lo que necesitamos que sepa es que todo se va a acceder desde el controller no? Lo que tiene que hacer es acceder a mi script desde los botones que vayamos a poner el tiene que agregar mi script desde un objeto vacio con el game controller y seleccionar que metodos mios va a usar
+
+
+
+
+S: enetendi literalmente 0 de lo que acabas de decir
