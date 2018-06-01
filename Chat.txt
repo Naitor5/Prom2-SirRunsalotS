@@ -57,3 +57,5 @@ ahora con eso, la idea es que cuando le des click a entregar, entre a este scrip
 }
 
 S: ya, entonces para eso creo un canvas para especificar el quest y un boton para entregarlo?
+
+J: el problema eres tu, porque yo puedo hacer los scripts de logica, aleksei hacer que funcionen pero nose como explicarte que funcionen en el mismo canvas
