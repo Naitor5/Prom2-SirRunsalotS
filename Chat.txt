@@ -12,3 +12,6 @@ pero no se como usar el canvas y tampoco como imprimir en pantalla
 en otras palabras se la logica de como funcionan las condiciones
 
 A:Tengo una idea de como hacer el canvas pero si sebastian va a hacer vista no deberia hacer eso el y encargarse de la escena?
+
+J: Si pero tambien es programacion supuestamente, osea eso es lo que nose como vamos a hacer
+J: en plan que hacer cada uno y como hacerlo
