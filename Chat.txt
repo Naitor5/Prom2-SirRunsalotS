@@ -28,3 +28,26 @@ y dentro de cada uno hago las variables que se necesitan y las condiciones
 
 A: Lo que quieres usar es botones y texto? Los creas en el canvas y si quieres darle funciones a los botones lo que hago es agregarles un script y ese script lo agregas a donde
 tiene que ir el script para que coja el OnClick() y buscas el void publico que quieres que realice al hacer click.
+
+J: lo que yo quiero hacer es mira te lo pongo asi facil
+
+Yo creo los scripts con la logica de las preguntas, osea Quest1 y la logica por decir:    
+
+suponiendo que la pregunta es de objetos
+Quest1 : necesito que me traigas 5 de cuero y 7 de pelaje para hacer una armadura
+
+class Quest1:
+
+public int cuero;
+public int pelaje;
+public bool quest1 = false;
+
+{
+
+if(cuero 1 != 5 && pelaje != 7 )
+{
+Quest 1 = true;
+}
+
+ahora con eso, la idea es que cuando le des click a entregar, entre a este script lea s lo tiene o no y si lo tiene, con la variable de quest1 true, pase al siguiente quest.
+}
