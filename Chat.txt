@@ -66,3 +66,6 @@ A: OK lo que necesitamos que sepa es que todo se va a acceder desde el controlle
 
 J: claro explicale eso, pero tambien quien va a tener el texto de quest????
 J: porque el texto tmb tiene que estar y el lo queire poner en un canvas con texto sin tener que ponerlo en un script y por mas que queramos, el tiene que poner el script d etexto porque el es vista.
+
+
+S: enetendi literalmente 0 de lo que acabas de decir, aleksei
