@@ -69,3 +69,6 @@ J: porque el texto tmb tiene que estar y el lo queire poner en un canvas con tex
 
 
 S: enetendi literalmente 0 de lo que acabas de decir, aleksei
+
+A: Joaquin tendra un script con metodos, yo accedo a esos metodos con mi script y TU accedes a mi script desde el canvas; 
+como lo haces te explicamos luego cuando armemos como vamos a estrucutrar el proyecto
