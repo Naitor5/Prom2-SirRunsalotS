@@ -87,3 +87,5 @@ S: y si hacemos solo 2 preguntas? tenemos poco tiempo
 
 A:Quieres que introduzca con el teclado el valor de objetos que tiene para poder seguir avanzando? Sabes como hacer eso?
 
+A: Vas a agregarle a tu script la variable "public static Quest instance", luego creas un void Awake() y dentro escribes "instance = this"; luego SEBASTIAN va a tener que agregar otro objeto vacio que tenga tu script (Llamaremos al objeto
+QuestionController); entonces yo podre acceder a tu script mediante el instance
