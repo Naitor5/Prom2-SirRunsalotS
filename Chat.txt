@@ -1,4 +1,4 @@
-MVC explicación: https://codigofacilito.com/articulos/mvc-model-view-controller-explicado
+﻿MVC explicación: https://codigofacilito.com/articulos/mvc-model-view-controller-explicado
 
 Que va a hacer cada uno:
 
@@ -16,4 +16,12 @@ A:Tengo una idea de como hacer el canvas pero si sebastian va a hacer vista no d
 J: Si pero tambien es programacion supuestamente, osea eso es lo que nose como vamos a hacer
 J: en plan que hacer cada uno y como hacerlo
 
-S: ya, dime bien q tengo q hacer pq en el link q mandaste solamente explica la teoria y aplicaciones de mvc pero no te dice como hacerlo y no se q tengo q hacer
+S: ya, dime bien q tengo q hacer pq en el link q mandaste solamente explica la teoria y aplicaciones de mvc pero no te dice como hacerlo y no se q tengo q hace
+
+J: ya es simple, el modelo osea yo, hago lo que tiene que ver con las preguntas ahora, eso es lo que necesito que me explique aleksei porque se como hacerlo. es simple
+pero no se como hacer que salga en pantalla, eso si no me equivoco lo puedes hacer tu desde el controlador, ya yo pasandote la logica en scripts en plan
+
+Script 1: se llama Pregunta1
+Script 2: se llama Pregunta2 
+
+y dentro de cada uno hago las variables que se necesitan y las condiciones
