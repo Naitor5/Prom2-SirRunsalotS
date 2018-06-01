@@ -82,3 +82,5 @@ J: pregunta 3: necesito que me treiga 2 plantas y 1 tarro de agua para hacerle u
 esas son mis variables dentro de mi script
 
 A: Ok, va a tener todos los objetos de por si o los va a obtener; si los va a obtener como?
+
+S: y si hacemos solo 2 preguntas? tenemos poco tiempo
