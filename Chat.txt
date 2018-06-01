@@ -74,3 +74,9 @@ A: Joaquin tendra un script con metodos, yo accedo a esos metodos con mi script 
 como lo haces te explicamos luego cuando armemos como vamos a estrucutrar el proyecto
 
 S: tons espero, basicamente
+
+J: pregunta 1: Necesito joven guerrero que me traiga 5 de cuero y 7 de pelaje para hacerle una armadura
+J: pregunta 2: Ahora necesito 20 de hierro y 10 de madera para la armadura
+J: pregunta 3: necesito que me treiga 2 plantas y 1 tarro de agua para hacerle una pocion
+
+esas son mis variables dentro de mi script
