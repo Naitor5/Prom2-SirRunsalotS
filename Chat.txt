@@ -10,3 +10,5 @@ que pasa, se como hacer todo lo logico en plan que tiene que decir, que neceista
 pero no se como usar el canvas y tampoco como imprimir en pantalla
 
 en otras palabras se la logica de como funcionan las condiciones
+
+A:Tengo una idea de como hacer el canvas pero si sebastian va a hacer vista no deberia hacer eso el y encargarse de la escena?
