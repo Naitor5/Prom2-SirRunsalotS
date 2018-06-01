@@ -25,3 +25,6 @@ Script 1: se llama Pregunta1
 Script 2: se llama Pregunta2 
 
 y dentro de cada uno hago las variables que se necesitan y las condiciones
+
+A: Lo que quieres usar es botones y texto? Los creas en el canvas y si quieres darle funciones a los botones lo que hago es agregarles un script y ese script lo agregas a donde
+tiene que ir el script para que coja el OnClick() y buscas el void publico que quieres que realice al hacer click.
