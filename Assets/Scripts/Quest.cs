@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Quest : MonoBehaviour {
 
+    public static Quest instance;
+
     public int cuero;
     public int pelaje;
     public int hierro;
@@ -15,13 +17,14 @@ public class Quest : MonoBehaviour {
     public bool p3 = false;
 
 	void Start () {
-        Pregunta1();
 	}
 	
 
-	void Update () {
-		
-	}
+
+    private void Awake()
+    {
+        instance = this;
+    }
 
     public void Pregunta1()
     {
