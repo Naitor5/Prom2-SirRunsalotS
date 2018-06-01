@@ -1,0 +1,7 @@
+MVC explicación: https://codigofacilito.com/articulos/mvc-model-view-controller-explicado
+
+Que va a hacer cada uno:
+
+Aleksei:
+Joaquin:
+Sebastian: V
