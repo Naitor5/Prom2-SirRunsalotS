@@ -56,4 +56,4 @@ Quest 1 = true;
 ahora con eso, la idea es que cuando le des click a entregar, entre a este script lea s lo tiene o no y si lo tiene, con la variable de quest1 true, pase al siguiente quest.
 }
 
-
+S: ya, entonces para eso creo un canvas para especificar el quest y un boton para entregarlo?
